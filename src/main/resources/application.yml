@@ -6,7 +6,7 @@ spring:
     driver-class-name:  com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/citi_db
     username: root
-    password: Natabar@143
+    password: NewStrongRootPass123!
 
   jpa:
     hibernate:
